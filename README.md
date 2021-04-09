@@ -1,1 +1,1 @@
-# Initializing Rust Dev Container.
+# Empty Rust Dev Container.
